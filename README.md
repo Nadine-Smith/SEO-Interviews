@@ -3,6 +3,9 @@
 ## 1: Do You think technical SEO is important? How ??
 Answer: Yes, Technical SEO is actually the first thing because if the crawlers/spiders are not considering the website legitimate then you are not going to get any return of your content or backlinks, right?
 For technical SEO, You should check the speed of the website, the font size of the website, above the fold of blog/website (should include a lot of content and no bullshit like the featured image or graphics/titles), sitemaps, robots.txt file, keyword cannibalization (pages targeting the same keyword), index tracking and more. Also, it depends on the platform you are using for the website I mean WordPress already fix many of these things for you
+
+![Technical SEO](https://github.com/Nadine-Smith/SEO-Interviews/blob/main/technical-seo.png?raw=true)
+
 ## 2: In what cases only ON-Page SEO will work just fine for ranking at position 1?
 Answer: Simply do an audit of top 10 ranking websites using AHREFS or SEMRUSH and find out if their domain has a lot of backlinks or what you say the domain authority or DR, UR by Ahrefs. If the backlinks on those sites are low and you are seeing the GAP in content or technical SEO then you can only do ON-Page SEO and fill those gaps with proper implementation for earning the first spot. It's a very simple strategy right? and every guy/gal should know it while going for an SEO interview.
 ## 3: What kind of backlinks are the best and how do you make them? write down step by step method or execution strategy...
